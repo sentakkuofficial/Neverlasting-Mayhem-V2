@@ -15,9 +15,7 @@ uncover the secrets behind the Owari No Nai.
 
 Open the game file directly in your browser:
 
-``` text
-[neverlasting_grand_selection_even_more_levels.html](https://sentakkuofficial.github.io/Neverlasting-Mayhem-V2/)
-```
+https://sentakkuofficial.github.io/Neverlasting-Mayhem-V2/
 
 No installation, build tools, or dependencies required.
 
